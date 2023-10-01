@@ -20,7 +20,6 @@ function openMenuDJ(valeur)
                 FreezeEntityPosition(PlayerPedId(), true)
                 RageUI.IsVisible(menuDJ, function()
                     RageUI.Separator(TranslationJob.Dj["DjPlatine"])
-                    RageUI.Separator("coucou")
                     RageUI.Line("color", 249, 130, 42)
                     RageUI.Button(TranslationJob.Dj["PutOnMusic"], nil, {RightLabel = "→→"}, true, {
                         onSelected = function()
