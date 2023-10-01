@@ -1,0 +1,20 @@
+TranslationJob = {
+    Dj = {
+        ["DjPlatine"] = "↓~o~ DJ Platine~s~ ↓",
+        ["PutOnMusic"] = "Mettre une musique",
+        ["UrlYoutube"] = "Youtube URL",
+        ["showPlaylist"] = "Voir la playlist",
+        ["PauseMusic"] = "Mettre pause à la musique",
+        ["RestartMusic"] = "Relance la musique",
+        ["StopMusic"] = "Stopper la musique",
+        ["ChangeVolum"] = "Changer le volume",
+        ["MinMaxVolum"] = "Min: 0.01 - Max: 1",
+        ["AddInPlaylist"] = "Ajouter dans la playlist",
+        ["Playlist"] = "Playlist",
+        ["NamePlaylist"] = "Nom de la musique",
+        ["UrlMusic"] = "Url de la musique",
+        ["StartMusic"] = "Lancer la musique",
+        ["DeleteMusic"] = "~r~Supprimer la musique",
+        ["VolumMusic"] = "Volume musique",
+    },
+}
